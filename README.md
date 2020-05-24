@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## live at (app)[http://stock-tracker-shreyash.surge.sh/]
+## live at [app](http://stock-tracker-shreyash.surge.sh/)
 
 ## Available Scripts
 
